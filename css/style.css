@@ -44,7 +44,7 @@ html {
     font-size: 62.5%;
     overflow-x: hidden;
 }
-& {
+:root {
 	--main-clr: #382575;
 	--dark-clr: #0a0a32;
 	--big-fz: calc(25px + (45 - 25) * ((100vw + 300px) / (1500 - 300)));
