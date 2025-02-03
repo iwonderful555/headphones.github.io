@@ -41,6 +41,7 @@ img{vertical-align: top;}
  transition: all 0.5s;
 }
 html {
+	max-width: 100%;
     font-size: 62.5%;
     overflow-x: hidden;
 }
