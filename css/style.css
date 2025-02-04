@@ -134,7 +134,6 @@ header #menu {
 	font-size: var(--medium-fz);
 	color: #fff;
 	cursor: pointer;
-	max-width: 100%;
 	display: none;
 }
 .home {
