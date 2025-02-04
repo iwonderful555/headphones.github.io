@@ -54,6 +54,15 @@ h5,
 h6 {
     overflow-wrap: break-word;
 }
+
+.product .box-container,
+.features .box-container,
+.about .row,
+.home {
+    max-width: 100%;
+    overflow: hidden;
+}
+
 :root {
 	--main-clr: #382575;
 	--dark-clr: #0a0a32;
