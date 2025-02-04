@@ -60,6 +60,7 @@ body {
 section {
 	min-height: 100vh;
 	padding: 0rem 8%;
+	max-width: 100%;
 }
 .btn {
 	padding: 0.7rem 3rem;
