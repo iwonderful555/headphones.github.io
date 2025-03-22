@@ -35,7 +35,10 @@ ul li{list-style: none;}
 img{vertical-align: top;}
 
 
-
+img, iframe {
+    max-width: 100%;
+    height: auto;
+}
 * {
  font-family: 'Lora', sans-serif;
  transition: all 0.5s;
