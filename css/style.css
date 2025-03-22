@@ -42,7 +42,6 @@ img, iframe {
 * {
  font-family: 'Lora', sans-serif;
  transition: all 0.5s;
- max-width: 100%;
 }
 html, body {
     font-size: 62.5%;
