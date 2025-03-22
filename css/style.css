@@ -44,8 +44,7 @@ img, iframe {
  transition: all 0.5s;
  max-width: 100%;
 }
-html {
-	max-width: 100%;
+html, body {
     font-size: 62.5%;
     overflow-x: hidden;
 }
@@ -108,6 +107,12 @@ header .logo img {
 header span {
 	font-size: var(--medium-fz);
 	color: #fff;
+}
+header .navbar {
+    left: 0;
+    width: 100%;
+    max-width: 100vw;
+    overflow-x: hidden;
 }
 header .navbar ul {
 	display: flex;
