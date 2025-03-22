@@ -45,7 +45,6 @@ img, iframe {
 }
 html, body {
     font-size: 62.5%;
-    overflow-x: hidden;
 }
 :root {
 	--main-clr: #382575;
